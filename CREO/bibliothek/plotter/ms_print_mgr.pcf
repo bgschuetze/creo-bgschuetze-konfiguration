@@ -13,7 +13,7 @@ allow_file_naming YES
 plot_name YES
 interface_quality 3 default
 plot_destination file default
-pen_table_file K:\CREO\admCreo4\bibliothek\plotter\HEB_table.pnt
+pen_table_file C:\CREO\admCreo4\bibliothek\plotter\Stifttabelle.pnt
 plot_sheets current default
 paper_size A4  default
 paper_outline NO default
