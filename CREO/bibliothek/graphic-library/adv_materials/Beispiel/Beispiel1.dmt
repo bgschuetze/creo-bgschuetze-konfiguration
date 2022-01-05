@@ -1,0 +1,246 @@
+﻿V7.0
+#
+#
+# PGL Version 7.0
+#
+#
+# material name
+material_name "Farbe1"
+# material label
+material_label "Farbe1"
+# material description
+material_description "für gehäus etc..."
+# material keywords
+material_keywords "Farbe1"
+# ambient color
+ambient_color 0.425520 0.442110 0.519417 1.000000
+# diffuse color
+diffuse_color 0.425520 0.442110 0.519417 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.560000
+# shine
+shine 0.010000
+# shine intensity
+intensity 0.210000
+# reflection
+reflection 0.000000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "Farbe2"
+# material label
+material_label "Farbe2"
+# material description
+material_description "Farbe2"
+# material keywords
+material_keywords "Farbe2"
+# ambient color
+ambient_color 0.694118 0.745098 0.788235 1.000000
+# diffuse color
+diffuse_color 0.694118 0.745098 0.788235 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.850000
+# ambient
+ambient 0.550000
+# shine
+shine 0.350000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.050000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "Farbe3"
+# material label
+material_label "Farbe3"
+# material description
+material_description "Farbe3"
+# material keywords
+material_keywords "Farbe3"
+# ambient color
+ambient_color 0.187961 0.200777 0.213592 1.000000
+# diffuse color
+diffuse_color 0.187961 0.200777 0.213592 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.850000
+# ambient
+ambient 0.550000
+# shine
+shine 0.350000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.050000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "Farbe4"
+# material label
+material_label "Farbe4"
+# material description
+material_description "Farbe4"
+# material keywords
+material_keywords "Farbe4"
+# ambient color
+ambient_color 0.898058 0.043581 0.035173 1.000000
+# diffuse color
+diffuse_color 0.898058 0.043581 0.035173 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.540000
+# shine
+shine 0.510000
+# shine intensity
+intensity 0.620000
+# reflection
+reflection 0.000000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "Farbe5"
+# material label
+material_label "Farbe5"
+# material description
+material_description "Farbe5"
+# material keywords
+material_keywords "Farbe5"
+# ambient color
+ambient_color 0.995146 0.310463 0.357085 1.000000
+# diffuse color
+diffuse_color 0.995146 0.310463 0.357085 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.600000
+# shine
+shine 0.350000
+# shine intensity
+intensity 0.630000
+# reflection
+reflection 0.460000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0

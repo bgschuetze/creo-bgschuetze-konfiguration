@@ -1,0 +1,22 @@
+ Pro/ENGINEER Stueckliste 
+ ========================
+
+.breakdown
+ Baugruppe *** %$name ***
+
+===================================================================================
+.titles Pos;|;Anz;| ;Name; | ;Sachnummer; | ;Benennung; | ;Werkstoff; | ;Masse [kg];
+===================================================================================
+.row %$index[3d];|;%$quantity[2d];|;%$name[-20.20s]; | ;%Sachnummer[-12.12s]; | ;%Benennung[-10.10s]; | ;%Werkstoff[-10.10s]; | ;%Masse[-5.3s];
+===================================================================================
+
+
+.summary;
+
+Liste aller Einzelteile der Baugruppe %$name 
+
+Anz Name                 Sachnummer   Benennung    Werkstoff    Masse [kg]
+_______________________________________________________________________________
+.row;%$quantity[3d] %$name[-20.20s] %Sachnummer[-12.12s] %Benennung[-12.12s] %Werkstoff[-10.10s] %Masse[7.3f]
+
+Summe der Einzelteile: %[$total($quantity)][-3d]                 Gesamtmasse in kg= %[$total(Masse)][7.3f]

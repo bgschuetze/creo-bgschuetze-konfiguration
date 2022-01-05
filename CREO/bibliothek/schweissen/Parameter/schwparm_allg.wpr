@@ -1,0 +1,25 @@
+ ! Enter or modify welding parameters.
+! You may use the help functionality of Pro/TABLE
+! to enter pre-defined parameters.
+!Cross-sectional area of the weld
+X_SECTION_AREA	25.000000
+!Depth of root penetration
+ROOT_PENETRATION	0.500000
+!Maximum allowed length of the weld
+MAX_ALLOWED_LENGTH	1000.000000
+!Minimum allowed length of the weld
+MIN_ALLOWED_LENGTH	0.000000
+!Maximum root opening
+MAX_ROOT_OPENING	100.000000
+!Minimum root opening
+MIN_ROOT_OPENING	0.000000
+!Specification number of the weld
+SPECIFICATION_NUMBER	E2
+!Treatment of the weld
+TREATMENT	LOW_HYDROGEN
+!Finish process of the weld
+FINISH	MACHINE
+!Machining type of the weld
+MACH_TYPE	MANUAL
+!Feedrate of the welding machine (unit = assembly unit /hour)
+FEEDRATE	1250.000000

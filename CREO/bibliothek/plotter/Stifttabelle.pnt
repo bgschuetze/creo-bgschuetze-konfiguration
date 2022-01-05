@@ -1,0 +1,28 @@
+!===================================================================
+!=              Strichstaerken bei A3->A4                          =
+!=                 Stand 25.10.21/ak                               =
+!===================================================================
+
+!Erklärung zu den Zeilen (Original-Zuordnungen von Creo, kann verändert werden):
+!- pen1: ist der allgemeine Strich, mit ihm wird alles was nicht abweichend angegeben ist, gezeichnet
+!- pen2: Buchstaben (auch Bemaßungslinien,Hinweislinien,Achsen und Mittellinien: als Mittellinien plotten,Geometrische Toleranzlinien,Text (mit Ausnahme von Querschnittbeschriftungen), Ballonnotizen,Schraffuren,Mittellinien in Gelb)
+!- pen3: Verdeckte Kanten und Phantomschriftart
+!- pen4: Primäre Hervorhebungen, Gewähltes, Sekundär Gewähltes
+!- pen5: Blech
+!- pen6: Skizzenelemente
+!- pen7: Hervorhebungen Sekundär (Umgeschaltete Schnitte,Nicht verfügbare Bemaßungen und Text,Ausgeblendete Tangentialkanten,Dunkelgrauer Teil von Bezugsebenen)
+!- pen8: Hervorhebungen (kante)
+
+!Erklärungen zu Begriffen:
+!- half_tone_color = Verdeckte Kanten
+
+pen 1 thickness 0.030 cm; color 0.0 0.0 0.0; drawing_color
+pen 2 thickness 0.010 cm; color 0.0 0.0 0.0; letter_color; preview_geom_color; secondary_preview_color; presel_highlight_color; highlite_color; datum_color; quilt_color; selected_color; secondary_selected_color
+pen 3 thickness 0.010 cm; color 0.0 0.0 0.0; attention_color
+pen 4 thickness 0.030 cm; color 1.0 0.0 0.0; magenta_color; edge_highlight_color
+pen 5 thickness 0.030 cm; color 0.0 0.0 0.0; sheet_metal
+pen 6 thickness 0.070 cm; color 0.0 0.9 0.1; sketch_color; section_color
+pen 7 thickness 0.010 cm; color 0.0 0.0 0.0; dimmed_color
+pen 8 thickness 0.010 cm; color 0.6 0.6 0.6; half_tone_color
+
+!Nicht zugeordnet: 

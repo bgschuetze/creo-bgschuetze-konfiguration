@@ -1,0 +1,17 @@
+! Parameter fuer den Schweissdraht eingeben oder aendern.
+! Sie koennen die Hilfe-Funktionalitaet von Pro/TABLE benutzen,
+! um vordefinierte Parameter einzugeben.
+!Durchmesser des Schweissdrahts
+DIAMETER	4
+!Laenge des Schweissdrahts
+LENGTH	10000
+!Dichte des Drahtmaterials
+DENSITY	7.85e-06
+!Spezifikationsnummer des Schweissdrahts
+SPECIFICATION_NUMBER	EN-499-e_46_3_1_Ni_R
+!Material des Schweissdrahts
+MATERIAL	Stahl
+!Laengeneinheit des Schweissdrahts
+LENGTH_UNITS	MILLIMETER
+!Masseeinheit des Schweissdrahts
+MASS_UNITS	KILOGRAM
